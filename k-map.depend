@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573920965 source:c:\users\sheela mathew\onedrive\c programming\c workouts\c-workouts\k-map\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
